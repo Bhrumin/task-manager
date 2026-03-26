@@ -147,10 +147,7 @@ http://localhost:3000
 
 ---
 
-## 👨‍💻 Author
 
-Your Name
 
----
 
 ⭐ If you like this project, give it a star!
